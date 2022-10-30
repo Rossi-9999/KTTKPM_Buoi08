@@ -1,5 +1,4 @@
 INDEX VERSION 1.131+C:\Users\ADMIN\Dropbox\PC\Desktop\Nam 4\TH_KienTruc\TH8\.metadata\.plugins\org.eclipse.jdt.core
-1662530954.index
 3607485972.index
 3506031366.index
 1865797976.index
@@ -8,14 +7,11 @@ INDEX VERSION 1.131+C:\Users\ADMIN\Dropbox\PC\Desktop\Nam 4\TH_KienTruc\TH8\.met
 1070590407.index
 4070613474.index
 1139899319.index
-1684609940.index
 3797483088.index
 2396208235.index
-486690212.index
 595865493.index
 2589163513.index
-1261139594.index
-528407499.index
+26569019.index
 2763161265.index
 2796097066.index
 2615992525.index
@@ -25,8 +21,6 @@ INDEX VERSION 1.131+C:\Users\ADMIN\Dropbox\PC\Desktop\Nam 4\TH_KienTruc\TH8\.met
 1360684004.index
 2612683901.index
 2899415657.index
-577021405.index
 3235335049.index
 1485025410.index
-677069637.index
 1556469477.index
